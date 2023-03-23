@@ -15,7 +15,7 @@ export const rootReducer = combineReducers({
     auth: authReducer
 });
 
-/////// Login 010101 /////////
+/////// Login 01010 1 /////////
 
 ///////////////////////////////////////////////////////////////////////
 //export type RootActions = TodoActionsTypes | TaskActionsTypes;
