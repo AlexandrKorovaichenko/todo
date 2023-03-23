@@ -15,7 +15,7 @@ export const rootReducer = combineReducers({
     auth: authReducer
 });
 
-// Login
+// Login //
 
 //export type RootActions = TodoActionsTypes | TaskActionsTypes;
 //export const store = createStore(rootReducer, applyMiddleware(thunk));
