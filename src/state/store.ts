@@ -17,10 +17,6 @@ export const rootReducer = combineReducers({
 
 //export type RootActions = TodoActionsTypes | TaskActionsTypes;
 //export const store = createStore(rootReducer, applyMiddleware(thunk));
-//export type RootActions = TodoActionsTypes | TaskActionsTypes;
-//export const store = createStore(rootReducer, applyMiddleware(thunk));
-//export type RootActions = TodoActionsTypes | TaskActionsTypes;
-//export const store = createStore(rootReducer, applyMiddleware(thunk));
 
 export const store = configureStore({
     reducer: rootReducer,
