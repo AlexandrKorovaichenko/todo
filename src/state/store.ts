@@ -15,7 +15,7 @@ export const rootReducer = combineReducers({
     auth: authReducer
 });
 
-/////// Login 01010 123 09 00006555 / 0001 ////////
+/////// Login 01010 123 09 00006555 / 000 000 1 ////////
 
 ///////////////////////////////////////////////////////////////////////
 //export type RootActions = TodoActionsTypes | TaskActionsTypes;
