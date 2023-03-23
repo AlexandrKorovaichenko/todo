@@ -15,6 +15,14 @@ export const rootReducer = combineReducers({
     auth: authReducer
 });
 
+
+
+//export type RootActions = TodoActionsTypes | TaskActionsTypes;
+//export const store = createStore(rootReducer, applyMiddleware(thunk));
+//export type RootActions = TodoActionsTypes | TaskActionsTypes;
+//export const store = createStore(rootReducer, applyMiddleware(thunk));
+//export type RootActions = TodoActionsTypes | TaskActionsTypes;
+//export const store = createStore(rootReducer, applyMiddleware(thunk));
 //export type RootActions = TodoActionsTypes | TaskActionsTypes;
 //export const store = createStore(rootReducer, applyMiddleware(thunk));
 
